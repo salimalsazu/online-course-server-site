@@ -1,0 +1,26 @@
+[
+    {
+        "author": "Salim Al Sazu",
+        "publish": "25 October 2022",
+        "question": "what is cors?",
+        "ans": "CORS (Cross-Origin Resource Sharing) is a system, consisting of transmitting HTTP headers, that determines whether browsers block frontend JavaScript code from accessing responses for cross-origin requests.The same-origin security policy forbids cross-origin access to resources. But CORS gives web servers the ability to say they want to opt into allowing cross-origin access to their resources."
+    },
+    {
+        "author": "Salim Al Sazu",
+        "publish": "25 October 2022",
+        "question": "Why are you using firebase? and What other options do you have to implement authentication?",
+        "ans": "1) Firebase helps you develop high-quality apps, grow your user base, and earn more money. Each feature works independently, and they work even better together. 2)Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more. Firebase Database used to store users' data like chat messages, users details, and other metadata.Firebase Cloud Storage is used to store user-generated content like profile pictures, multimedia messages, etc.Firebase Cloud Messaging used to send notifications."
+    },
+    {
+        "author": "Salim Al Sazu",
+        "publish": "26 October 2022",
+        "question": "How does the private route work?",
+        "ans": "The private route component is similar to the public route, the only change is that redirect URL and authenticate condition. If the user is not authenticated he will be redirected to the login page and the user can only access the authenticated routes If he is authenticated (Logged in)"
+    },
+    {
+        "author": "Salim Al Sazu",
+        "publish": "26 October 2022",
+        "question": "What is Node? and How does Node work?",
+        "ans": "a) Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications. b) It is a used as backend service where javascript works on the server-side of the application. This way javascript is used on both frontend and backend. Node. js runs on chrome v8 engine which converts javascript code into machine code, it is highly scalable, lightweight, fast, and data-intensive "
+    }
+]

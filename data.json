@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "category": "Mobile Apps"
+    },
+    {
+        "id": "02",
+        "category": "Node.js"
+    },
+    {
+        "id": "03",
+        "category": "Front-End Developer"
+    },
+    {
+        "id": "04",
+        "category": "Full-Stack Developer"
+    },
+    {
+        "id": "05",
+        "category": "Basic Courses"
+    },
+    {
+        "id": "06",
+        "category": "Type Script"
+    },
+    {
+        "id": "07",
+        "category": "All Courses"
+    }
+]
